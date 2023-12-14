@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Previous Web design"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Previous Web design"
+	}
+}
